@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced algorithms, data structures, and machine learning to expand my technical expertise.  
 - 💞️ I’m looking to collaborate on open-source projects related to Flutter, mobile development, or fintech innovations.  
 - 📫 How to reach me:  
-  - LinkedIn: [[linkedin](https://www.linkedin.com/in/guillermo-de-la-cruz-86a10420b/)]([https://linkedin.com/in/memosayan](https://www.linkedin.com/in/guillermo-de-la-cruz-86a10420b/))  
+   - LinkedIn: [linkedin](https://www.linkedin.com/in/guillermo-de-la-cruz-86a10420b/) 
 
 ✨ Passionate about creating seamless and scalable mobile solutions to make technology accessible for everyone. ✨
 
